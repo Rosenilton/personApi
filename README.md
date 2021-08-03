@@ -1,7 +1,6 @@
 # Sistema de Gerenciamento de pessoas.
 
-Neste clone da API desenvolvido pelo [Rodrigo DÁgostini Peleias](https://www.linkedin.com/in/rodrigopeleias) e a [D.I.O.](https://digitalinnovation.one/) , eu adicionei o swagger para a documentação e a anotação de auditoria para a classe pessoa. 
-
+Neste clone da API desenvolvido pelo [Rodrigo DÁgostini Peleias](https://www.linkedin.com/in/rodrigopeleias) e a [D.I.O.](https://digitalinnovation.one/) , eu adicionei o swagger para a documentação e conclui a classe phone.
 Neste projeto foi desenvolvido um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
 São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
